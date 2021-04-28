@@ -1,0 +1,151 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1619572052480' stop='1619572056007'>
+    <name>Age suit: Positive tests</name>
+    <title>Age suit: Positive tests</title>
+    <test-cases>
+        <test-case start='1619572052480' status='passed' stop='1619572052958'>
+            <name>TC-056 Age field accept  "1" </name>
+            <title>TC-056 Age field accept  "1" </title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1619572052958' status='passed' stop='1619572053463'>
+            <name>TC-057 Age field accept  12 digits</name>
+            <title>TC-057 Age field accept  12 digits</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1619572053463' status='passed' stop='1619572053976'>
+            <name>TC-058 Age field accept "1234567890"</name>
+            <title>TC-058 Age field accept "1234567890"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1619572053976' status='passed' stop='1619572054413'>
+            <name>TC-059 Age field accept space </name>
+            <title>TC-059 Age field accept space </title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1619572054413' status='passed' stop='1619572054852'>
+            <name>TC-060 Age field accept 0 on the left </name>
+            <title>TC-060 Age field accept 0 on the left </title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1619572054852' status='passed' stop='1619572055189'>
+            <name>TC-061 Age field accept spin up </name>
+            <title>TC-061 Age field accept spin up </title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1619572055189' status='passed' stop='1619572055621'>
+            <name>TC-062 Age field accept 1 -> spin up </name>
+            <title>TC-062 Age field accept 1 -> spin up </title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1619572055621' status='passed' stop='1619572056007'>
+            <name>TC-063 Age field accept 2 -> spin down </name>
+            <title>TC-063 Age field accept 2 -> spin down </title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

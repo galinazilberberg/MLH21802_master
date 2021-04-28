@@ -1,0 +1,25 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1619572052110' stop='1619572052472'>
+    <name>Age suit: Placeholder</name>
+    <title>Age suit: Placeholder</title>
+    <test-cases>
+        <test-case start='1619572052111' status='passed' stop='1619572052471'>
+            <name>TC-055 Age Field placeholder  = "Hero's age"</name>
+            <title>TC-055 Age Field placeholder  = "Hero's age"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

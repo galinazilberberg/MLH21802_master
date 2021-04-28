@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1619572059689' stop='1619572071781'>
+    <name>Age suit</name>
+    <title>Age suit</title>
+    <test-cases>
+        <test-case start='1619572059690' status='passed' stop='1619572061730'>
+            <name>"before all" hook for Age suit</name>
+            <title>"before all" hook for Age suit</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

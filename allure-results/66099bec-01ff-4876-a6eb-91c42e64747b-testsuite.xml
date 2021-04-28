@@ -1,0 +1,151 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1619572077915' stop='1619572080580'>
+    <name>Story Type: Positive cases</name>
+    <title>Story Type: Positive cases</title>
+    <test-cases>
+        <test-case start='1619572077915' status='passed' stop='1619572078254'>
+            <name>TC - 073 The Story Type field is a dropdown and the expanded list exists </name>
+            <title>TC - 073 The Story Type field is a dropdown and the expanded list exists </title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1619572078254' status='passed' stop='1619572078595'>
+            <name>TC - 075 Label "Overcoming the Monster" is correct </name>
+            <title>TC - 075 Label "Overcoming the Monster" is correct </title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1619572078595' status='passed' stop='1619572078914'>
+            <name>TC - 076 Label "Rebirth"  is correct</name>
+            <title>TC - 076 Label "Rebirth"  is correct</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1619572078914' status='passed' stop='1619572079237'>
+            <name>TC - 077 Label "Quest"  is correct</name>
+            <title>TC - 077 Label "Quest"  is correct</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1619572079237' status='passed' stop='1619572079611'>
+            <name>TC - 078 Label "Journey and Return"  is correct</name>
+            <title>TC - 078 Label "Journey and Return"  is correct</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1619572079611' status='passed' stop='1619572079948'>
+            <name>TC - 079 Label "Rags and Riches"  is correct</name>
+            <title>TC - 079 Label "Rags and Riches"  is correct</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1619572079948' status='passed' stop='1619572080271'>
+            <name>TC - 080 Label "Tragedy"  is correct</name>
+            <title>TC - 080 Label "Tragedy"  is correct</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1619572080271' status='passed' stop='1619572080580'>
+            <name>TC - 081 Label "Comedy" is correct</name>
+            <title>TC - 081 Label "Comedy" is correct</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-2'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
